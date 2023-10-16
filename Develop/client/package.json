@@ -8,16 +8,16 @@
   "author": "2U",
   "license": "UNLICENSED",
   "devDependencies": {
-    "@babel/core": "^7.15.0",
+    "@babel/core": "^7.23.2",
     "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
     "@babel/plugin-transform-runtime": "^7.15.0",
-    "@babel/preset-env": "^7.15.0",
+    "@babel/preset-env": "^7.23.2",
     "@babel/runtime": "^7.15.3",
-    "babel-loader": "^8.2.2",
-    "css-loader": "^6.2.0",
+    "babel-loader": "^8.3.0",
+    "css-loader": "^6.8.1",
     "html-webpack-plugin": "^5.3.2",
     "http-server": "^0.11.1",
-    "style-loader": "^3.2.1",
+    "style-loader": "^3.3.3",
     "webpack": "^5.89.0",
     "webpack-cli": "^4.10.0",
     "webpack-core": "^0.6.9",
@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "code-mirror-themes": "^1.0.0",
-    "idb": "^6.1.2"
+    "idb": "^6.1.2",
+    "workbox": "^0.0.0"
   }
 }
