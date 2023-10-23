@@ -19,7 +19,7 @@ const path = require('path');
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-// Define the absolute path to your static files
+
 const staticPath = path.join(__dirname, '../client/dist');
 
 app.use(express.static(staticPath));
