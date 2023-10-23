@@ -16,7 +16,7 @@ Build a text editor that runs in the browser. The app will be a single-page appl
 
 ## Preview
 
-![alt](Develop/client/dist/assets/icons/preview.png)
+![alt](client/src/images/preview.png)
 
 
 ## Technologies Used
