@@ -60,8 +60,8 @@ To run this portfolio locally or contribute to it, follow these steps:
 ## Contact
 
 - Email: laetitia.ama@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/laetitia-audrey-kacoutie-veh-879102ba/](#)
 - GitHub: [https://github.com/audidi29/Audrey-React-Portfolio](#)
+- Heroku Deploy Link : https://glacial-atoll-64307-276e26412e93.herokuapp.com/
 
 ## License
 
